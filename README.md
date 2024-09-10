@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuvel Reegan</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="samuvelreegan" width="45px"/>, I'm Samuvel Reegan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 
