@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development , MERN**
 
-- 📫 How to reach me **samuvelreegan@gmail.com**
+- 📫 How to reach me **samuelreegan372@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
