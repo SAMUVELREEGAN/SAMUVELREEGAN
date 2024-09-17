@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Web Developer , MERN**
+- 💬 Ask me about **Web Development , MERN**
 
 - 📫 How to reach me **samuelreegan372@gmail.com**
 
