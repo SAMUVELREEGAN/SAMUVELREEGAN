@@ -1,4 +1,4 @@
-![MasterHead](https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif)
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="samuvelreegan" width="45px"/>, I'm Samuvel Reegan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="50%" height="300" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
