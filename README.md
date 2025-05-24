@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Web Development , MERN**
+- 💬 Ask me about **Web Development , MERN & Pyhton Full Satck**
 
 - 📫 How to reach me **samuelreegan372@gmail.com**
 
