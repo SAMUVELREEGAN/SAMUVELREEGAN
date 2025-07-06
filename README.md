@@ -16,6 +16,8 @@
 
 - <h2>My website urls</h2>
 1 : <a href="https://happyfood-author-samuvelreegan.netlify.app/" target="blank">happyfood-author-samuvelreegan.netlify.app</a>
+2 : <a href="https://foodbootstrap-author-samuvelreegan.netlify.app/" target="blank">foodbootstrap-author-samuvelreegan.netlify.app</a>
+3 : <a href="https://api-communication-protocol.netlify.app/" target="blank">api-communication-protocol.netlify.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
