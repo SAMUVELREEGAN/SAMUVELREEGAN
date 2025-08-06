@@ -14,9 +14,11 @@
 
 - 📫 How to reach me **samuelreegan372@gmail.com**
 
-- <h2>My website urls</h2>
+- <h2>My Practice Time Website urls(Just Simple)</h2>
 1. <a href="https://happyfood-author-samuvelreegan.netlify.app/" target="blank">happyfood-author-samuvelreegan.netlify.app</a> </br>
 2. <a href="https://foodbootstrap-author-samuvelreegan.netlify.app/" target="blank">foodbootstrap-author-samuvelreegan.netlify.app</a> </br>
+2. <a href="https://portfolio-3-frontend.onrender.com/" target="blank">portfolio-3-frontend.onrender.com</a> </br>
+2. <a href="https://samuvel-reegan-s7t5.netlify.app/" target="blank">https://samuvel-reegan-s7t5.netlify.app</a> </br>
 3. <a href="https://api-communication-protocol.netlify.app/" target="blank">api-communication-protocol.netlify.app</a> </br>
 
 <h3 align="left">Connect with me:</h3>
