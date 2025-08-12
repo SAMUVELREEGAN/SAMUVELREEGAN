@@ -45,12 +45,17 @@ Repository Stats
 <h3>My Repo Collaborators</h3>
 <p>
   <a href="https://github.com/propertiesinfinite">
-    <img src="https://avatars.githubusercontent.com/u/COLLAB1_ID?v=4" width="40" height="40" style="border-radius:50%" />
+    <img src="https://avatars.githubusercontent.com/u/198585396?v=4" 
+         width="40" height="40" 
+         style="border-radius:50%; object-fit:cover;" />
   </a>
   <a href="https://github.com/vimal-raj-4126">
-    <img src="https://avatars.githubusercontent.com/u/221811972?v=4" width="40" height="40" style="border-radius:50%" />
+    <img src="https://avatars.githubusercontent.com/u/221811972?v=4" 
+         width="40" height="40" 
+         style="border-radius:50%; object-fit:cover;" />
   </a>
 </p>
+
 
   
 Recent Activity
