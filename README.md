@@ -46,15 +46,21 @@ Repository Stats
 <p>
   <a href="https://github.com/propertiesinfinite">
     <img src="https://avatars.githubusercontent.com/u/198585396?v=4" 
-         width="40" height="40" 
-         style="border-radius:50%; object-fit:cover;" />
+         width="50" height="50" 
+         style="border-radius:50%; object-fit:cover; background-color:#f5f5f5; padding:3px;" />
   </a>
   <a href="https://github.com/vimal-raj-4126">
     <img src="https://avatars.githubusercontent.com/u/221811972?v=4" 
-         width="40" height="40" 
-         style="border-radius:50%; object-fit:cover;" />
+         width="50" height="50" 
+         style="border-radius:50%; object-fit:cover; background-color:#f5f5f5; padding:3px;" />
+  </a>
+  <a href="https://github.com/RajeshSakthivel07">
+    <img src="https://avatars.githubusercontent.com/u/192937927?v=4" 
+         width="50" height="50" 
+         style="border-radius:50%; object-fit:cover; background-color:#f5f5f5; padding:3px;" />
   </a>
 </p>
+
 
 
   
