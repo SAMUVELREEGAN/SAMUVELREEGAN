@@ -72,7 +72,15 @@ Recent Activity
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuvelreegan&show_icons=true&locale=en" alt="samuvelreegan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuvelreegan&" alt="samuvelreegan" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuvelreegan&theme=algolia&title=Commit,Repositories" alt="samuvelreegan trophies" />
+</p>
+
+
+
+
+
+
 
 
 
