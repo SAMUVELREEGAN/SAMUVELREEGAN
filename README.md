@@ -67,14 +67,18 @@ Repository Stats
   
 Recent Activity
 <!-- GitHub activity graph -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuvelreegan&theme=algolia&title=Commit,Repositories" alt="samuvelreegan trophies" />
+</p>
+
+
+
 [![Samuvel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuvelreegan&theme=react-dark)](https://github.com/samuvelreegan)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuvelreegan&show_icons=true&locale=en&layout=compact" alt="samuvelreegan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuvelreegan&show_icons=true&locale=en" alt="samuvelreegan" /></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuvelreegan&theme=algolia&title=Commit,Repositories" alt="samuvelreegan trophies" />
-</p>
 
 
 
