@@ -38,7 +38,7 @@
 
 Repository Stats
 <p align="left">
-  <img src="https://img.shields.io/badge/Public%20Repos-45-success?logo=github" alt="Public Repos">
+  <img src="https://img.shields.io/badge/Public%20Repos-46-success?logo=github" alt="Public Repos">
   <img src="https://img.shields.io/badge/Private%20Repos-10-important?logo=github" alt="Private Repos">
 </p>
 
