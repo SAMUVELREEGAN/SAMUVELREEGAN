@@ -2,96 +2,94 @@ import { useState } from 'react';
 import { featuredProjects } from '../data/portfolioData';
 import ScrollReveal from './ScrollReveal';
 
-function splitDisplayTitle(title) {
-  const words = title.trim().split(/\s+/);
-  if (words.length <= 2) return words.join(' ');
+function getTitleLines(title) {
+  const upper = title.toUpperCase();
+  const words = upper.split(/\s+/);
+  if (words.length <= 2) return [upper];
   const mid = Math.ceil(words.length / 2);
-  return `${words.slice(0, mid).join(' ')}\n${words.slice(mid).join(' ')}`;
+  return [words.slice(0, mid).join(' '), words.slice(mid).join(' ')];
 }
 
 function ProjectEditorialItem({ project, index }) {
   const [expanded, setExpanded] = useState(false);
-  const categoryLine = project.category.toUpperCase();
-  const titleLines = splitDisplayTitle(project.title).split('\n');
   const num = String(index + 1).padStart(2, '0');
+  const titleLines = getTitleLines(project.title);
+  const isEven = index % 2 === 1;
 
   return (
-    <article className="proj-editorial__item">
-      <div className="proj-editorial__stage">
-        <ScrollReveal variant="left" delay={index * 60} className="proj-editorial__heading-wrap">
-          <div className="proj-editorial__heading">
-            <span className="proj-editorial__index">/{num}</span>
-            <h3 className="proj-editorial__name">
-              <span className="proj-editorial__name-cat">{categoryLine} /</span>
-              {titleLines.map((line) => (
-                <span key={line}>{line.toUpperCase()}</span>
-              ))}
-            </h3>
-          </div>
-        </ScrollReveal>
-
-        <ScrollReveal variant="image" delay={120 + index * 80} className="proj-editorial__visual-wrap">
-          <div
-            className={`proj-editorial__visual ${expanded ? 'proj-editorial__visual--open' : ''}`}
-          >
+    <ScrollReveal variant="image" delay={index * 100}>
+      <article className={`proj-editorial__item ${isEven ? 'proj-editorial__item--alt' : ''}`}>
+        <div className={`proj-editorial__card ${expanded ? 'proj-editorial__card--open' : ''}`}>
+          <div className="proj-editorial__frame">
             <img
               src={project.image}
               alt={project.title}
               className="proj-editorial__img"
               loading="lazy"
             />
+            <div className="proj-editorial__shine" aria-hidden="true" />
 
             <div className="proj-editorial__panel">
-              <div className="proj-editorial__panel-inner">
+              <div className="proj-editorial__panel-top">
                 <span className={`proj-editorial__status proj-editorial__status--${project.status === 'Live' ? 'live' : 'soon'}`}>
                   {project.status}
                 </span>
-                <p className="proj-editorial__desc">{project.description}</p>
-
-                {project.highlights && (
-                  <ul className="proj-editorial__highlights">
-                    {project.highlights.map((h) => (
-                      <li key={h}>{h}</li>
-                    ))}
-                  </ul>
-                )}
-
-                <div className="proj-editorial__meta">
-                  <div className="proj-editorial__tags">
-                    {project.tags.map((tag) => (
-                      <span key={tag} className="proj-editorial__tag">{tag}</span>
-                    ))}
-                  </div>
-                  {project.link ? (
-                    <a
-                      href={project.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="proj-editorial__cta"
-                      data-cursor-hover
-                    >
-                      View Live →
-                    </a>
-                  ) : (
-                    <span className="proj-editorial__cta proj-editorial__cta--muted">Coming Soon</span>
-                  )}
+                <span className="proj-editorial__panel-num">/{num}</span>
+              </div>
+              <p className="proj-editorial__desc">{project.description}</p>
+              {project.highlights && (
+                <ul className="proj-editorial__highlights">
+                  {project.highlights.map((h) => (
+                    <li key={h}>{h}</li>
+                  ))}
+                </ul>
+              )}
+              <div className="proj-editorial__meta">
+                <div className="proj-editorial__tags">
+                  {project.tags.map((tag) => (
+                    <span key={tag} className="proj-editorial__tag">{tag}</span>
+                  ))}
                 </div>
+                {project.link ? (
+                  <a
+                    href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="proj-editorial__cta"
+                    data-cursor-hover
+                  >
+                    View Live →
+                  </a>
+                ) : (
+                  <span className="proj-editorial__cta proj-editorial__cta--muted">Coming Soon</span>
+                )}
               </div>
             </div>
 
             <button
               type="button"
-              className="proj-editorial__tap-hint hide-desktop-flex"
-              onClick={() => setExpanded((v) => !v)}
+              className="proj-editorial__tap hide-desktop-flex"
+              onClick={(e) => {
+                e.stopPropagation();
+                setExpanded((v) => !v);
+              }}
               aria-expanded={expanded}
-              aria-label={expanded ? 'Hide project details' : 'Show project details'}
             >
               {expanded ? 'Close' : 'Details'}
             </button>
           </div>
-        </ScrollReveal>
-      </div>
-    </article>
+
+          <div className="proj-editorial__caption">
+            <p className="proj-editorial__caption-cat">{project.category.toUpperCase()} /</p>
+            <h3 className="proj-editorial__caption-title">
+              {titleLines.map((line) => (
+                <span key={line}>{line}</span>
+              ))}
+            </h3>
+          </div>
+        </div>
+      </article>
+    </ScrollReveal>
   );
 }
 
@@ -99,7 +97,7 @@ function WorkProjects() {
   return (
     <section id="projects" className="section-dark grid-bg proj-editorial">
       <ScrollReveal variant="fade">
-        <div className="proj-editorial__header">
+        <header className="proj-editorial__header">
           <p className="eyebrow">Selected Work</p>
           <div className="proj-editorial__header-row">
             <h2 className="proj-editorial__section-title">Projects</h2>
@@ -107,8 +105,7 @@ function WorkProjects() {
               {String(featuredProjects.length).padStart(2, '0')}
             </span>
           </div>
-          <p className="proj-editorial__hint">Hover the preview to explore each build</p>
-        </div>
+        </header>
       </ScrollReveal>
 
       <div className="proj-editorial__list">
