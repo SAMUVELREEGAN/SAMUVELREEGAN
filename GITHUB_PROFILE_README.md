@@ -17,13 +17,13 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/dev-workspace.svg" alt="Web development workspace" width="300" />
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/dev-workspace.jpg" alt="Web development workspace" width="320" />
       <br />
       <strong>Web Development</strong><br />
       <sub>React · Node.js · Express · MySQL · MongoDB</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile application development" width="300" />
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.jpg" alt="Mobile application development" width="320" />
       <br />
       <strong>Mobile Applications</strong><br />
       <sub>React Native · REST APIs · Android & iOS</sub>
@@ -104,7 +104,7 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
       <code>React</code> · <code>Node.js</code> · <a href="https://arugancoffee.com">Live ↗</a>
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/web-dev.svg" alt="Full-stack web development" width="420" />
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/web-dev.jpg" alt="Full-stack web development" width="420" />
       <br /><strong>Full-Stack Web</strong><br />
       Responsive UI, REST APIs & scalable backends
     </td>
@@ -124,7 +124,7 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
       <code>React Native</code> · <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN">Play Store ↗</a>
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile app development" width="300" />
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.jpg" alt="Mobile app development" width="420" />
       <br /><strong>Biz Catalyst App</strong><br />
       Cross-platform marketplace app<br />
       <code>React Native</code> · 🚧 Coming Soon
@@ -142,21 +142,6 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
 | [weather-rn](https://github.com/SAMUVELREEGAN/weather-rn) | React Native weather app |
 
 👉 [All repositories](https://github.com/SAMUVELREEGAN?tab=repositories)
-
----
-
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Full-Stack Developer** | Basicsbytes Infotech | `2025 — Present` |
-| **Full-Stack Developer** | Phoenix | `2023 — 2025` |
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science** — Parvathy S Arts and Science College, Dindigul · `2020 — 2023`
 
 ---
 
