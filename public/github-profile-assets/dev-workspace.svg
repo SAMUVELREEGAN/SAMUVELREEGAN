@@ -59,7 +59,7 @@
   <rect x="248" y="428" width="144" height="12" rx="6" fill="#111"/>
 
   <!-- floating badges -->
-  <g filter="url(#glow)">
+  <g>
     <rect x="48" y="468" width="118" height="118" rx="22" fill="#161616" stroke="#ff6600" stroke-opacity="0.35"/>
     <circle cx="107" cy="512" r="26" fill="#202020"/>
     <path d="M107 492c-11 0-20 9-20 20s9 20 20 20 20-9 20-20-9-20-20-20zm0 6c7.7 0 14 6.3 14 14s-6.3 14-14 14-14-6.3-14-14 6.3-14 14-14z" fill="#61dafb"/>

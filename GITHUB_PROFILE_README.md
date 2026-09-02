@@ -17,13 +17,13 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/dev-workspace.svg" alt="Web development workspace" width="100%" />
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/dev-workspace.svg" alt="Web development workspace" width="300" />
       <br />
       <strong>Web Development</strong><br />
       <sub>React · Node.js · Express · MySQL · MongoDB</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile application development" width="100%" />
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile application development" width="300" />
       <br />
       <strong>Mobile Applications</strong><br />
       <sub>React Native · REST APIs · Android & iOS</sub>
@@ -77,17 +77,17 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://bizaltar.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/biz01.png" alt="Biz Catalyst" width="100%" />
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/biz01.jpg" alt="Biz Catalyst" width="420" />
       </a>
       <br /><strong>Biz Catalyst Marketplace</strong><br />
       B2B marketplace platform<br />
       <code>React</code> · <code>Node.js</code> · <code>MySQL</code> · <a href="https://bizaltar.com/">Live ↗</a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://propertiesinfinite.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/property.png" alt="Properties Infinite" width="100%" />
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/property.jpg" alt="Properties Infinite" width="420" />
       </a>
       <br /><strong>Properties Infinite</strong><br />
       Real estate platform across Tamil Nadu<br />
@@ -95,16 +95,16 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://arugancoffee.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/coffee01.png" alt="Arugan Coffee" width="100%" />
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/coffee01.jpg" alt="Arugan Coffee" width="420" />
       </a>
       <br /><strong>Arugan Coffee</strong><br />
       Premium coffee e-commerce website<br />
       <code>React</code> · <code>Node.js</code> · <a href="https://arugancoffee.com">Live ↗</a>
     </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/web-dev.svg" alt="Full-stack web development" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/web-dev.svg" alt="Full-stack web development" width="420" />
       <br /><strong>Full-Stack Web</strong><br />
       Responsive UI, REST APIs & scalable backends
     </td>
@@ -115,16 +115,16 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN" target="_blank">
-        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/Pif.png" alt="Properties Infinite App" width="100%" />
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/Pif.jpg" alt="Properties Infinite App" width="420" />
       </a>
       <br /><strong>Properties Infinite App</strong><br />
       Property listings across 50+ cities<br />
       <code>React Native</code> · <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN">Play Store ↗</a>
     </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile app development" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile app development" width="300" />
       <br /><strong>Biz Catalyst App</strong><br />
       Cross-platform marketplace app<br />
       <code>React Native</code> · 🚧 Coming Soon
@@ -163,12 +163,12 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMUVELREEGAN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMUVELREEGAN&theme=tokyo_night" alt="GitHub profile summary" height="165" />
   <img src="https://streak-stats.demolab.com/?user=SAMUVELREEGAN&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUVELREEGAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAMUVELREEGAN&theme=tokyo_night" alt="Top languages" height="165" />
 </p>
 
 ---
