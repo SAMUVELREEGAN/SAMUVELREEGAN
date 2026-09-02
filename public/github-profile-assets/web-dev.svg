@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Web development illustration">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6600"/>
+      <stop offset="100%" stop-color="#ff8533"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="16" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <!-- Browser window -->
+  <rect x="48" y="48" width="544" height="264" rx="12" fill="#010409" stroke="#30363d" stroke-width="2"/>
+  <rect x="48" y="48" width="544" height="36" rx="12" fill="#161b22"/>
+  <circle cx="72" cy="66" r="6" fill="#ff5f57"/>
+  <circle cx="92" cy="66" r="6" fill="#febc2e"/>
+  <circle cx="112" cy="66" r="6" fill="#28c840"/>
+  <rect x="140" y="58" width="200" height="16" rx="8" fill="#21262d"/>
+  <!-- Code lines -->
+  <text x="72" y="120" fill="#ff6600" font-family="monospace" font-size="14">&lt;React /&gt;</text>
+  <text x="72" y="148" fill="#58a6ff" font-family="monospace" font-size="13">const app = express();</text>
+  <text x="72" y="176" fill="#7ee787" font-family="monospace" font-size="13">app.use('/api', routes);</text>
+  <text x="72" y="204" fill="#d2a8ff" font-family="monospace" font-size="13">mongoose.connect(DB_URI);</text>
+  <text x="72" y="232" fill="#ffa657" font-family="monospace" font-size="13">export default App;</text>
+  <!-- Decorative brackets -->
+  <path d="M580 110 L600 110 L600 250 L580 250" stroke="url(#accent)" stroke-width="3" fill="none"/>
+  <path d="M60 110 L40 110 L40 250 L60 250" stroke="url(#accent)" stroke-width="3" fill="none"/>
+  <!-- Labels -->
+  <text x="320" y="330" text-anchor="middle" fill="#8b949e" font-family="system-ui,sans-serif" font-size="15" font-weight="600">React · Node.js · Express · MongoDB · MySQL</text>
+</svg>
