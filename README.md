@@ -17,13 +17,13 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/dev-workspace.png" alt="Web development workspace" width="320" />
+      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/dev-workspace.png" alt="Web development workspace" width="320" />
       <br />
       <strong>Web Development</strong><br />
       <sub>React · Node.js · Express · MySQL · MongoDB</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/mobile-app.png" alt="Mobile application development" width="320" />
+      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/mobile-app.png" alt="Mobile application development" width="320" />
       <br />
       <strong>Mobile Applications</strong><br />
       <sub>React Native · REST APIs · Android & iOS</sub>
@@ -79,7 +79,7 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
   <tr>
     <td width="50%" align="center">
       <a href="https://bizaltar.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/biz01.jpg" alt="Biz Catalyst" width="420" />
+        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/biz01.jpg" alt="Biz Catalyst" width="420" />
       </a>
       <br /><strong>Biz Catalyst Marketplace</strong><br />
       B2B marketplace platform<br />
@@ -87,7 +87,7 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
     </td>
     <td width="50%" align="center">
       <a href="https://propertiesinfinite.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/property.jpg" alt="Properties Infinite" width="420" />
+        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/property.jpg" alt="Properties Infinite" width="420" />
       </a>
       <br /><strong>Properties Infinite</strong><br />
       Real estate platform across Tamil Nadu<br />
@@ -97,14 +97,14 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
   <tr>
     <td width="50%" align="center">
       <a href="https://arugancoffee.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/coffee01.jpg" alt="Arugan Coffee" width="420" />
+        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/coffee01.jpg" alt="Arugan Coffee" width="420" />
       </a>
       <br /><strong>Arugan Coffee</strong><br />
       Premium coffee e-commerce website<br />
       <code>React</code> · <code>Node.js</code> · <a href="https://arugancoffee.com">Live ↗</a>
     </td>
     <td width="50%" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/web-dev.png" alt="Full-stack web development" width="420" />
+      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/web-dev.png" alt="Full-stack web development" width="420" />
       <br /><strong>Full-Stack Web</strong><br />
       Responsive UI, REST APIs & scalable backends
     </td>
@@ -117,14 +117,14 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
   <tr>
     <td width="50%" align="center">
       <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/Pif.jpg" alt="Properties Infinite App" width="420" />
+        <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/Pif.jpg" alt="Properties Infinite App" width="420" />
       </a>
       <br /><strong>Properties Infinite App</strong><br />
       Property listings across 50+ cities<br />
       <code>React Native</code> · <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN">Play Store ↗</a>
     </td>
     <td width="50%" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@main/assets/mobile-app.png" alt="Mobile app development" width="420" />
+      <img src="https://cdn.jsdelivr.net/gh/SAMUVELREEGAN/SAMUVELREEGAN@842b25d/assets/mobile-app.png" alt="Mobile app development" width="420" />
       <br /><strong>Biz Catalyst App</strong><br />
       Cross-platform marketplace app<br />
       <code>React Native</code> · 🚧 Coming Soon
