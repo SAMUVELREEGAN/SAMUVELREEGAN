@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/Mypic.png" alt="Samuvel Reegan" width="180" style="border-radius: 50%; border: 3px solid #ff6600;" />
