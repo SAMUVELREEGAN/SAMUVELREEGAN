@@ -1,0 +1,106 @@
+/* ═══════════════════════════════════════════
+   LIGHT MODE
+═══════════════════════════════════════════ */
+[data-theme="light"] {
+  --dark:        #f7f4ef;
+  --dark-soft:   #ffffff;
+  --dark-card:   #ffffff;
+  --cream:       #1a1612;
+  --cream-dim:   #4a4540;
+  --gray:        #6b6560;
+  --line:        rgba(0, 0, 0, 0.08);
+  --line-strong: rgba(0, 0, 0, 0.14);
+  --orange-lt:   rgba(255, 102, 0, 0.1);
+}
+
+[data-theme="light"] .topbar {
+  background: rgba(247, 244, 239, 0.92);
+  border-bottom-color: var(--line);
+}
+
+[data-theme="light"] .sidebar {
+  background: var(--dark-soft);
+  box-shadow: 8px 0 48px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="light"] .hero-editorial::after {
+  background: radial-gradient(ellipse, rgba(255, 102, 0, 0.08) 0%, transparent 65%);
+}
+
+[data-theme="light"] .hero-cta-secondary {
+  color: var(--cream);
+  border-color: var(--line-strong);
+}
+
+[data-theme="light"] .hero-cta-secondary:hover {
+  background: var(--orange-lt);
+}
+
+[data-theme="light"] .process__item--outline .process__label {
+  -webkit-text-stroke: 1.5px rgba(26, 22, 18, 0.15);
+}
+
+[data-theme="light"] .about-photo {
+  filter: grayscale(5%) brightness(1);
+  border-color: var(--line-strong);
+}
+
+[data-theme="light"] .about-photo-wrap:hover .about-photo {
+  filter: grayscale(0%) brightness(1.02);
+}
+
+[data-theme="light"] .about-collage__photo--main {
+  filter: grayscale(5%) brightness(1);
+}
+
+[data-theme="light"] .proj-showcase__frame {
+  background: #ece8e2;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] .proj-showcase__frame:hover .proj-showcase__img {
+  filter: brightness(0.55);
+}
+
+[data-theme="light"] .proj-showcase__overlay {
+  background: linear-gradient(
+    to top,
+    rgba(255, 255, 255, 0.97) 0%,
+    rgba(255, 255, 255, 0.75) 45%,
+    transparent 100%
+  );
+}
+
+[data-theme="light"] .proj-showcase__title,
+[data-theme="light"] .proj-showcase__desc,
+[data-theme="light"] .proj-showcase__content {
+  color: var(--cream);
+}
+
+[data-theme="light"] .contact-form__input,
+[data-theme="light"] .contact-form__textarea {
+  background: var(--dark-soft);
+  color: var(--cream);
+  border-color: var(--line-strong);
+}
+
+[data-theme="light"] .contact-form__input:focus,
+[data-theme="light"] .contact-form__textarea:focus {
+  border-color: var(--orange);
+  box-shadow: 0 0 0 3px var(--orange-lt);
+}
+
+[data-theme="light"] .playground__card:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] .exp-card:hover,
+[data-theme="light"] .about-fact:hover,
+[data-theme="light"] .about-strength-item:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+[data-theme="light"] ::selection {
+  background: var(--orange);
+  color: #fff;
+}
