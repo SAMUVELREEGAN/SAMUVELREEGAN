@@ -34,7 +34,7 @@ export const personalInfo = {
   photo: myPic,
   tagline: 'Building scalable web & mobile experiences with React, Node.js & React Native.',
   about: `I'm a full-stack developer who turns product ideas into polished web and mobile experiences. From B2B marketplaces and real-estate platforms to e-commerce brands, I work across the stack — React & React Native on the front, Node.js, Express, and Django on the back — with a focus on clean architecture, performance, and shipping features that users actually rely on.`,
-  yearsExperience: '3+ years',
+  yearsExperience: '2+ Years',
   highlights: [
     {
       title: 'Full-Stack Product Delivery',
@@ -71,7 +71,7 @@ export const experienceIncludes = [
 ];
 
 export const expStats = [
-  { num: '3+', label: 'Years' },
+  { num: '2+', label: 'Years' },
   { num: '2', label: 'Companies' },
   { num: '5', label: 'Live Products' },
 ];

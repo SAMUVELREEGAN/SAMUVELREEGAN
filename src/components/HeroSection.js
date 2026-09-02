@@ -44,7 +44,7 @@ function HeroSection() {
       {/* Stats strip */}
       <div className="hero-editorial__stats">
         {[
-          { num: '3+', label: 'Years Experience' },
+          { num: '2+', label: 'Years Experience' },
           { num: '10+', label: 'Projects Built' },
           { num: '5',  label: 'Live Products' },
           { num: '2',  label: 'Companies' },
