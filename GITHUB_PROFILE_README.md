@@ -8,18 +8,25 @@
 
 <div align="center">
 
-<!-- Profile + web development visual -->
+### Samuvel Reegan · Full-Stack Developer
+📍 Dindigul, Tamil Nadu, India
+
+<br />
+
+<!-- Web & mobile development visuals -->
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/Mypic.png" alt="Samuvel Reegan" width="160" style="border-radius: 50%; border: 3px solid #ff6600;" />
-      <br /><br />
-      <strong>Samuvel Reegan</strong><br />
-      <em>Full-Stack Developer</em><br />
-      📍 Dindigul, Tamil Nadu, India
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/dev-workspace.svg" alt="Web development workspace" width="100%" />
+      <br />
+      <strong>Web Development</strong><br />
+      <sub>React · Node.js · Express · MySQL · MongoDB</sub>
     </td>
-    <td align="center" width="520">
-      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/web-dev.svg" alt="Web development" width="480" />
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile application development" width="100%" />
+      <br />
+      <strong>Mobile Applications</strong><br />
+      <sub>React Native · REST APIs · Android & iOS</sub>
     </td>
   </tr>
 </table>
@@ -52,7 +59,7 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,html,css,bootstrap,python,django,git,github,npm,aws,figma&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,python,django,git,github,npm,aws&perline=8" alt="Tech stack icons" />
 </p>
 
 | Area | Technologies |
@@ -66,45 +73,64 @@ I'm a **full-stack web developer** who turns product ideas into polished web and
 
 ## 🚀 Featured Projects
 
-### Biz Catalyst Marketplace
-<a href="https://bizaltar.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/biz01.png" alt="Biz Catalyst" width="100%" />
-</a>
+### 🌐 Web Applications
 
-B2B marketplace for business discovery, connection & transactions.  
-`React` · `Node.js` · `MySQL` · [Live Site ↗](https://bizaltar.com/)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://bizaltar.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/biz01.png" alt="Biz Catalyst" width="100%" />
+      </a>
+      <br /><strong>Biz Catalyst Marketplace</strong><br />
+      B2B marketplace platform<br />
+      <code>React</code> · <code>Node.js</code> · <code>MySQL</code> · <a href="https://bizaltar.com/">Live ↗</a>
+    </td>
+    <td width="50%">
+      <a href="https://propertiesinfinite.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/property.png" alt="Properties Infinite" width="100%" />
+      </a>
+      <br /><strong>Properties Infinite</strong><br />
+      Real estate platform across Tamil Nadu<br />
+      <code>React</code> · <code>Express</code> · <code>MongoDB</code> · <a href="https://propertiesinfinite.com/">Live ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://arugancoffee.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/coffee01.png" alt="Arugan Coffee" width="100%" />
+      </a>
+      <br /><strong>Arugan Coffee</strong><br />
+      Premium coffee e-commerce website<br />
+      <code>React</code> · <code>Node.js</code> · <a href="https://arugancoffee.com">Live ↗</a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/web-dev.svg" alt="Full-stack web development" width="100%" />
+      <br /><strong>Full-Stack Web</strong><br />
+      Responsive UI, REST APIs & scalable backends
+    </td>
+  </tr>
+</table>
 
----
+### 📱 Mobile Applications
 
-### Properties Infinite
-<a href="https://propertiesinfinite.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/property.png" alt="Properties Infinite" width="100%" />
-</a>
-
-Real estate platform — buy, sell & rent across Tamil Nadu with verified listings.  
-`React` · `Express` · `MongoDB` · [Live Site ↗](https://propertiesinfinite.com/)
-
----
-
-### Arugan Coffee
-<a href="https://arugancoffee.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/coffee01.png" alt="Arugan Coffee" width="100%" />
-</a>
-
-Premium coffee brand website with product showcase and shopping experience.  
-`React` · `Node.js` · `REST API` · [Live Site ↗](https://arugancoffee.com)
-
----
-
-### Properties Infinite App
-<a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN" target="_blank">
-  <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/Pif.png" alt="Properties Infinite App" width="100%" />
-</a>
-
-Android app for verified property listings across 50+ cities in India.  
-`React Native` · `REST APIs` · [Play Store ↗](https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN)
-
----
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN" target="_blank">
+        <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/Pif.png" alt="Properties Infinite App" width="100%" />
+      </a>
+      <br /><strong>Properties Infinite App</strong><br />
+      Property listings across 50+ cities<br />
+      <code>React Native</code> · <a href="https://play.google.com/store/apps/details?id=com.phoneix.pif&hl=en_IN">Play Store ↗</a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/SAMUVELREEGAN/SAMUVELREEGAN/main/assets/mobile-app.svg" alt="Mobile app development" width="100%" />
+      <br /><strong>Biz Catalyst App</strong><br />
+      Cross-platform marketplace app<br />
+      <code>React Native</code> · 🚧 Coming Soon
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Open Source
 
