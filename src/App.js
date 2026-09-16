@@ -9,8 +9,7 @@ import Philosophy from './components/Philosophy';
 import ProcessList from './components/ProcessList';
 import BlueBanner from './components/BlueBanner';
 import ExperienceTimeline from './components/ExperienceTimeline';
-import FeaturedWork from './components/FeaturedWork';
-import ProjectsSection from './components/ProjectsSection';
+import WorkProjects from './components/WorkProjects';
 import SkillsGrid from './components/SkillsGrid';
 import GitHubPlayground from './components/GitHubPlayground';
 import ContactSection from './components/ContactSection';
@@ -34,8 +33,7 @@ function App() {
               <ProcessList />
               <BlueBanner />
               <ExperienceTimeline />
-              <FeaturedWork />
-              <ProjectsSection />
+              <WorkProjects />
               <SkillsGrid />
               <GitHubPlayground />
               <ContactSection />
