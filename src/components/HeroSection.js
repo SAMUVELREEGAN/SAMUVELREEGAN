@@ -1,10 +1,10 @@
 import { personalInfo } from '../data/portfolioData';
 import ScrollReveal from './ScrollReveal';
+import ResumeActions from './ResumeActions';
 
 function HeroSection() {
   return (
     <section id="hero" className="hero-editorial">
-      {/* Orange top bar */}
       <div className="hero-editorial__stripe">
         <span className="hero-editorial__stripe-label">
           {personalInfo.role} · {personalInfo.location}
@@ -15,7 +15,6 @@ function HeroSection() {
         </span>
       </div>
 
-      {/* Big name + aside */}
       <div className="hero-editorial__body">
         <ScrollReveal variant="hero" threshold={0.01}>
           <h1 className="hero-editorial__title">
@@ -34,20 +33,20 @@ function HeroSection() {
                 See My Work →
               </a>
               <a href={`mailto:${personalInfo.email}`} className="hero-cta-secondary" data-cursor-hover>
-                Let's Talk
+                Let&apos;s Talk
               </a>
             </div>
+            <ResumeActions variant="hero" className="hero-resume-actions" />
           </div>
         </ScrollReveal>
       </div>
 
-      {/* Stats strip */}
       <div className="hero-editorial__stats">
         {[
           { num: '2+', label: 'Years Experience' },
           { num: '10+', label: 'Projects Built' },
-          { num: '5',  label: 'Live Products' },
-          { num: '2',  label: 'Companies' },
+          { num: '5', label: 'Live Products' },
+          { num: '2', label: 'Companies' },
         ].map((s, i) => (
           <ScrollReveal key={s.label} delay={i * 70} threshold={0.01} className="hero-stat">
             <div className="hero-stat__num">{s.num}</div>

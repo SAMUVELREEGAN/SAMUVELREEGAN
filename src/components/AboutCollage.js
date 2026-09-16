@@ -1,5 +1,6 @@
 import { personalInfo, experienceIncludes } from '../data/portfolioData';
 import ScrollReveal from './ScrollReveal';
+import ResumeActions from './ResumeActions';
 
 function AboutCollage() {
   return (
@@ -28,7 +29,7 @@ function AboutCollage() {
               </div>
               <div className="about-photo-badge">
                 <span className="about-photo-badge__num">{personalInfo.yearsExperience}</span>
-                <span className="about-photo-badge__label">Experience</span>
+                <span className="about-photo-badge__label">Years Exp</span>
               </div>
             </div>
           </ScrollReveal>
@@ -45,6 +46,10 @@ function AboutCollage() {
                 </div>
               ))}
             </div>
+          </ScrollReveal>
+
+          <ScrollReveal variant="up" delay={180}>
+            <ResumeActions className="about-resume-actions" />
           </ScrollReveal>
         </div>
 

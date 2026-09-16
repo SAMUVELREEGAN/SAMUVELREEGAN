@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { personalInfo } from '../data/portfolioData';
 import ScrollReveal from './ScrollReveal';
+import ResumeActions from './ResumeActions';
 
 const FORM_ENDPOINT = `https://formsubmit.co/ajax/${personalInfo.email}`;
 
@@ -183,6 +184,14 @@ function ContactSection() {
               <span className="contact-editorial__link-value">{personalInfo.phone}</span>
               <span className="contact-editorial__link-arrow">↗</span>
             </a>
+
+            <div className="contact-resume-block">
+              <p className="contact-resume-block__label">Resume</p>
+              <p className="contact-resume-block__text">
+                View or download my full CV (PDF) — Node.js, Python &amp; full-stack experience.
+              </p>
+              <ResumeActions />
+            </div>
           </div>
         </ScrollReveal>
       </div>

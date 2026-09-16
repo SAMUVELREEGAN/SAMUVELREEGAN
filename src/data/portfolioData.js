@@ -17,6 +17,7 @@ import htmlIcon from '../assets/skills/html5.svg';
 import cssIcon from '../assets/skills/css3.svg';
 import bootstrapIcon from '../assets/skills/bootstrap.svg';
 import djangoIcon from '../assets/skills/django.svg';
+import fastapiIcon from '../assets/skills/fastapi.svg';
 import axiosIcon from '../assets/skills/axios.svg';
 import awsIcon from '../assets/skills/amazonaws.svg';
 import gitIcon from '../assets/skills/git.svg';
@@ -33,8 +34,8 @@ export const personalInfo = {
   github: 'https://github.com/SAMUVELREEGAN/',
   photo: myPic,
   tagline: 'Building scalable web & mobile experiences with React, Node.js & React Native.',
-  about: `I'm a full-stack developer who turns product ideas into polished web and mobile experiences. From B2B marketplaces and real-estate platforms to e-commerce brands, I work across the stack — React & React Native on the front, Node.js, Express, and Django on the back — with a focus on clean architecture, performance, and shipping features that users actually rely on.`,
-  yearsExperience: '2+ Years',
+  about: `I'm a full-stack developer who turns product ideas into polished web and mobile experiences. From B2B marketplaces and real-estate platforms to e-commerce brands, I work across the stack — React & React Native on the front, Node.js, Express, Django, and FastAPI on the back — with a focus on clean architecture, performance, and shipping features that users actually rely on.`,
+  yearsExperience: '2+',
   highlights: [
     {
       title: 'Full-Stack Product Delivery',
@@ -78,7 +79,7 @@ export const expStats = [
 
 export const whatIOffer = [
   'React & React Native frontends',
-  'Node.js / Express REST APIs',
+  'Node.js / Express / FastAPI backends',
   'MySQL & MongoDB data layers',
   'Auth, payments & third-party integrations',
   'Performance tuning & responsive UI',
@@ -133,6 +134,7 @@ export const primarySkills = [
   { name: 'React Native', icon: reactNativeIcon, level: 'Advanced' },
   { name: 'Node.js', icon: nodeIcon, level: 'Advanced' },
   { name: 'Express.js', icon: expressIcon, level: 'Advanced' },
+  { name: 'FastAPI', icon: fastapiIcon, level: 'Advanced' },
   { name: 'MySQL', icon: mysqlIcon, level: 'Advanced' },
   { name: 'MongoDB', icon: mongoIcon, level: 'Advanced' },
 ];
@@ -153,6 +155,7 @@ export const skillCategories = [
     skills: [
       { name: 'Python', icon: pythonIcon },
       { name: 'Django', icon: djangoIcon },
+      { name: 'FastAPI', icon: fastapiIcon },
       { name: 'REST APIs', icon: nodeIcon },
     ],
   },
@@ -171,6 +174,7 @@ export const otherSkills = [
   { name: 'JavaScript', icon: jsIcon },
   { name: 'Python', icon: pythonIcon },
   { name: 'Django', icon: djangoIcon },
+  { name: 'FastAPI', icon: fastapiIcon },
   { name: 'HTML5', icon: htmlIcon },
   { name: 'CSS3', icon: cssIcon },
   { name: 'Bootstrap', icon: bootstrapIcon },
